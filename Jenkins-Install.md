@@ -6,3 +6,4 @@ Step 1: Update Your System
 Step 2: Install Java
 
 Jenkins needs to install Java (Java 11 or 17).
+`sudo apt install openjdk-17-jdk -y`
