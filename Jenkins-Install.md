@@ -51,7 +51,7 @@
 
 **Step 7: Access Jenkins in Browser**
 
-http://192.168.10.42:8080
+http://192.168.10.42:8080 (Replace with your IP address)
 
 
 **Step 8: Unlock Jenkins**
